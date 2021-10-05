@@ -5,7 +5,7 @@ Engineering work junior/4 year
 * [Basics](#Basics)
 * [Python_Dice_Roller](#PythonDiceRoller)
 * [Python_Calculator](#Python_Calculator)
-* [Quadratic Solver](#PythonQuadraticSolver)
+* [Quadratic Solver](#Python_Quadratic_Solver)
 ---
 
 ## Basics
@@ -66,7 +66,7 @@ N/A
 ### Reflection
 
 
-## PythonQuadraticSolver
+## Python Quadratic Solver
 
 ### Assignment Description 
 
