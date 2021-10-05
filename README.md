@@ -59,6 +59,7 @@ This assignment was relatively simple, but was challenging because I had not cod
 
 ### Evidence 
 a = int(input("Enter first number: ")) 
+
 b = int(input("Enter second number: ")) 
 
 
@@ -87,10 +88,14 @@ def doMath(a,b,c):
         
         
         
-print("Sum:\t\t" + doMath(a,b,1))  
+print("Sum:\t\t" + doMath(a,b,1))
+
 print("Difference:\t" + doMath(a,b,2)) 
+
 print("Product:\t" + doMath(a,b,3)) 
+
 print("Quotient:\t" + doMath(a,b,4)) 
+
 print("Modulo:\t\t" + doMath(a,b,5)) 
 
 ### Wiring
