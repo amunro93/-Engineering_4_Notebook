@@ -6,6 +6,8 @@ Engineering work junior/4 year
 * [Python_Dice_Roller](#PythonDiceRoller)
 * [Python_Calculator](#Python_Calculator)
 * [Quadratic_Solver](#Python_Quadratic_Solver)
+* [Strings_and_Loops](#Python_Strings_and_Loops)
+
 ---
 
 ## Basics
@@ -109,16 +111,6 @@ This code was quite simple but it will help me on the next assingment.
 
 ### Evidence 
 ![PythonProgram03](https://user-images.githubusercontent.com/57007400/136064918-ae3677ba-aab5-41ba-a04c-31b650539eff.PNG)
-
-
-### Code
-
-animals = ["lion","starfish","eagle"]
-for x in words:
-    for n in x:
-        print(n)
-    print("-")
-
 
 ### Wiring 
 
