@@ -58,6 +58,9 @@ This assignment was relatively simple, but was challenging because I had not cod
 
 
 ### Evidence
+![Capture](https://user-images.githubusercontent.com/57007400/136062077-4979838f-0d71-4b17-9260-23bafadee8fa.PNG)
+
+### Code
 
     if c == 1:  #Defines Sum
         
