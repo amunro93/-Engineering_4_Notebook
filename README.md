@@ -2,7 +2,7 @@
 Engineering work junior/4 year
 
 ## Table of Contents
-*[Basics](#Basics)
+* [Basics](#Basics)
 * [Python_Dice_Roller](#PythonDiceRoller)
 * [Python_Calculator](#Python_Calculator)
 * [Quadratic Solver](#PythonQuadraticSolver)
