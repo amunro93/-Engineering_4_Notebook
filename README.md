@@ -107,21 +107,11 @@ This code was quite simple but it will help me on the next assingment.
 
 ### Assingment Description 
 
-### Evidence
+### Evidence 
+![PythonProgram03](https://user-images.githubusercontent.com/57007400/136064918-ae3677ba-aab5-41ba-a04c-31b650539eff.PNG)
+
 
 ### Code
-#Python Program 03
-
-#Angus Munro
-
-#09/28/21
-
-sentence= input("Type text, then press Enter: ")
-
-words = sentence.split()
-#splits the words in the sentence
-
-
 
 animals = ["lion","starfish","eagle"]
 for x in words:
