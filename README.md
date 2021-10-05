@@ -59,6 +59,40 @@ This assignment was relatively simple, but was challenging because I had not cod
 
 ### Evidence 
 ![Capture](https://user-images.githubusercontent.com/57007400/136056939-ba1a5599-f3b7-4911-8577-1bab9c9897ea.PNG)
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+
+
+
+def doMath(a,b,c): 
+    if c == 1:  
+        
+        return str (a + b)
+        
+    if c == 2:
+        
+        return str (a - b)
+    
+    if c == 3: 
+        
+        return str (a * b)
+    
+    if c == 4: 
+        
+        return str (a / b)
+        
+    if c == 5:
+        
+        return str (a % b)
+        
+        
+        
+print("Sum:\t\t" + doMath(a,b,1))
+print("Difference:\t" + doMath(a,b,2))
+print("Product:\t" + doMath(a,b,3))
+print("Quotient:\t" + doMath(a,b,4))
+print("Modulo:\t\t" + doMath(a,b,5))
+
 
 ### Wiring
 N/A
