@@ -66,7 +66,7 @@ N/A
 ### Reflection
 
 
-## Python Quadratic Solver
+## Python_Quadratic_Solver
 
 ### Assignment Description 
 
