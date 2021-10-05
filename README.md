@@ -55,7 +55,7 @@ This assignment was relatively simple, but was challenging because I had not cod
 ## Python_Calculator
 
 ### Assignment Description
-
+For this assingment we were assinged to write a python calculator.py program that gives you the sum, diffrence, quotient, and the modulo of the two numbers. If done correctly the program will ask the user for two and then runs them through one function. 
 
 ### Evidence
 ![Capture](https://user-images.githubusercontent.com/57007400/136062077-4979838f-0d71-4b17-9260-23bafadee8fa.PNG)
@@ -88,7 +88,7 @@ This assignment was relatively simple, but was challenging because I had not cod
 N/A
 
 ### Reflection
-
+This code was quite simple but it will help me on the next assingment.
 
 ## Python_Quadratic_Solver
 
