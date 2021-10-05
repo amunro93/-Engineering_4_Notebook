@@ -55,6 +55,7 @@ This assignment was relatively simple, but was challenging because I had not cod
 ## Python_Calculator
 
 ### Assignment Description
+![Capture](https://user-images.githubusercontent.com/57007400/136056939-ba1a5599-f3b7-4911-8577-1bab9c9897ea.PNG)
 
 
 
@@ -62,6 +63,6 @@ This assignment was relatively simple, but was challenging because I had not cod
 
 
 ### Wiring
-
+N/A
 
 ### Reflection
