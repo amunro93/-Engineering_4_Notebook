@@ -108,6 +108,7 @@ This code was quite simple but it will help me on the next assingment.
 
 
 ### Assingment Description 
+For this assingment we were assinged to write a program that asks the user to type a simple sentence. 
 
 ### Evidence 
 ![PythonProgram03](https://user-images.githubusercontent.com/57007400/136064918-ae3677ba-aab5-41ba-a04c-31b650539eff.PNG)
