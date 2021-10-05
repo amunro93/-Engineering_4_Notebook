@@ -5,7 +5,7 @@ Engineering work junior/4 year
 * [Basics](#Basics)
 * [Python_Dice_Roller](#PythonDiceRoller)
 * [Python_Calculator](#Python_Calculator)
-* [Quadratic Solver](#Python_Quadratic_Solver)
+* [Quadratic_Solver](#Python_Quadratic_Solver)
 ---
 
 ## Basics
