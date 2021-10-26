@@ -93,7 +93,7 @@ N/A
 ### Reflection
 This code was quite simple but it will help me on the next assingment.
 
-## Python Quadratic Solver
+## Python_Quadratic_Solver
 
 ### Assignment Description 
 In this module, we had to make a quadratic solver, meaning the user would give their a,b, & c values for standard form of a quadratic, and then the program would produce the roots, and if there were no roots, then the program would produce that there were no roots.
