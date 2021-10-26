@@ -94,13 +94,13 @@ This code was quite simple but it will help me on the next assingment.
 ## Python_Quadratic_Solver
 
 ### Assignment Description 
+In this module, we had to make a quadratic solver, meaning the user would give their a,b, & c values for standard form of a quadratic, and then the program would produce the roots, and if there were no roots, then the program would produce that there were no roots.
 
 ### Evidence 
 
-### Wiring
 
 ### Reflection 
-
+At first the code I had written would only multiply the three inputed numbers after trouble shooting it would do the quadratic however even if it was not a quadratic it would say that it was.
 
 
 ## Python_Strings_and_Loops
@@ -112,10 +112,15 @@ For this assingment we were assinged to write a program that asks the user to ty
 ### Evidence 
 ![PythonProgram03](https://user-images.githubusercontent.com/57007400/136064918-ae3677ba-aab5-41ba-a04c-31b650539eff.PNG)
 
-### Wiring 
-
 ### Reflection
 
 
+## MSP
 
+### Assingment Description 
+This assingment was to make a game like stick man. You had to be able to have the code acknowledge when the person would guess the correct or wrong answer and have a stick man be created when you got it wrong. 
+### Evidence
+
+### Reflection 
+I struggled with this assigment as my code did not draw the man corectly and it took me a long time to ajust the code to write it correctly I used google quite a bit. I also had trouble with the computer knowing if the letter typed was in the word however after a while I fixed it.
 
