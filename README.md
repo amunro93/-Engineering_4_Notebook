@@ -7,7 +7,9 @@ Engineering work junior/4 year
 * [Python_Calculator](#Python_Calculator)
 * [Quadratic_Solver](#Python_Quadratic_Solver)
 * [Strings_and_Loops](#Python_Strings_and_Loops)
-
+* [MSP](#MSP)
+* [Swing_Arm](#Swing_Arm)
+* [Skateboard](#Skateboard)
 ---
 
 ## Basics
@@ -120,7 +122,6 @@ For this assingment we were assinged to write a program that asks the user to ty
 ### Assingment Description 
 This assingment was to make a game like stick man. You had to be able to have the code acknowledge when the person would guess the correct or wrong answer and have a stick man be created when you got it wrong. 
 ### Evidence
-![Screenshot 2021-10-26 7.20.23 AM](https://user-images.githubusercontent.com/57007400/136064918-ae3677ba-aab5-41ba-a04c-31b650539eff.PNG)
 
 ### Reflection 
 I struggled with this assigment as my code did not draw the man corectly and it took me a long time to ajust the code to write it correctly I used google quite a bit. I also had trouble with the computer knowing if the letter typed was in the word however after a while I fixed it.
