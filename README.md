@@ -3,12 +3,12 @@ Engineering work junior/4 year
 
 ## Table of Contents
 * [Basics](#Basics)
-* [Python Dice Roller](#Python Dice Roller)
-* [Python Calculator](#Python Calculator)
-* [Quadratic Solver](#Python Quadratic Solver)
-* [Strings and Loops](#Python Strings and Loops)
+* [Python_Dice_Roller](#Python_Dice_Roller)
+* [Python_Calculator](#Python_Calculator)
+* [Quadratic_Solver](#Python_Quadratic_Solver)
+* [Strings_and_Loops](#Python_Strings_and_Loops)
 * [MSP](#MSP)
-* [Swing Arm](#Swing Arm)
+* [Swing_Arm](#Swing_Arm)
 * [Skateboard](#Skateboard)
 ---
 
@@ -31,7 +31,7 @@ This may not be applicable to all assignments. Anything where you wire something
 What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience?  Your ultimate goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
 
 
-## Python Dice Roller
+## Python_Dice_Roller
 
 ### Assignment Description
 
@@ -55,7 +55,7 @@ N/A
 
 This assignment was relatively simple, but was challenging because I had not coded in Python for several months. I learned that I could import parts of toolboxes without importing the entire thing, but that changes the syntax of how I call the function later. I also learned about using a while loop to control whether a user wants to exit the program. For the spicy version, I needed to use nested loops. Python determines what is inside a loop by the indent level of each line of text, rather than brackets like some other coding styles. That means I need to be really careful with my tabs!                                                                                                 
 
-## Python Calculator
+## Python_Calculator
 
 ### Assignment Description
 For this assingment we were assinged to write a python calculator.py program that gives you the sum, diffrence, quotient, and the modulo of the two numbers. If done correctly the program will ask the user for two and then runs them through one function. 
@@ -105,7 +105,7 @@ In this module, we had to make a quadratic solver, meaning the user would give t
 At first the code I had written would only multiply the three inputed numbers after trouble shooting it would do the quadratic however even if it was not a quadratic it would say that it was.
 
 
-## Python Strings and Loops
+## Python_Strings_and_Loops
 
 
 ### Assingment Description 
@@ -127,4 +127,4 @@ This assingment was to make a game like stick man. You had to be able to have th
 I struggled with this assigment as my code did not draw the man corectly and it took me a long time to ajust the code to write it correctly I used google quite a bit. I also had trouble with the computer knowing if the letter typed was in the word however after a while I fixed it.
 
 
-## Swing
+## Swing_Arm
