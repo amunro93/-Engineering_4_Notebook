@@ -134,6 +134,17 @@ I struggled with this assigment as my code did not draw the man corectly and it 
 For this assingment we had to make a swing arm with a couple pictures and use variables. 
 
 ### Evidence 
-![SwingArm](https://raw.githubusercontent.com/amunro93/Engineering_4_Notebook/main/Images/SwingArm2.PNG)
+![SwingArm](https://raw.githubusercontent.com/amunro93/Engineering_4_Notebook/main/Images/SwingArm.PNG)
+![SwingArm2](https://raw.githubusercontent.com/amunro93/Engineering_4_Notebook/main/Images/SwingArm2.PNG)
 
 ### Reflection 
+This was quite simple the only I stuggled with was the variables. I forgot to add them at the beginning so unfortunately I had to reset but other than that it was a breeze. 
+
+## Skateboard 
+
+### Assingment Description 
+
+### Evidence 
+
+### Reflection 
+
