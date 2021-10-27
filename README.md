@@ -128,3 +128,10 @@ I struggled with this assigment as my code did not draw the man corectly and it 
 
 
 ## Swing_Arm
+
+### Assingment Description 
+For this assingment we had to make a swing arm with a couple pictures and use variables. 
+
+### Evidence 
+
+### Reflection 
