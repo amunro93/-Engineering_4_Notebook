@@ -99,7 +99,7 @@ This code was quite simple but it will help me on the next assingment.
 In this module, we had to make a quadratic solver, meaning the user would give their a,b, & c values for standard form of a quadratic, and then the program would produce the roots, and if there were no roots, then the program would produce that there were no roots.
 
 ### Evidence 
-
+![QudraticSolver](https://raw.githubusercontent.com/amunro93/Engineering_4_Notebook/main/Images/QudraticSolver.PNG)
 
 ### Reflection 
 At first the code I had written would only multiply the three inputed numbers after trouble shooting it would do the quadratic however even if it was not a quadratic it would say that it was.
