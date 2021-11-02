@@ -143,7 +143,7 @@ This was quite simple the only I stuggled with was the variables. I forgot to ad
 ## Skateboard 
 
 ### Assingment Description 
-
+We were assingend to make a skateboard.
 ### Evidence 
 
 ### Reflection 
