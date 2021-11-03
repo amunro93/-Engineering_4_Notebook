@@ -146,5 +146,7 @@ This was quite simple the only I stuggled with was the variables. I forgot to ad
 We were assingend to make a skateboard.
 ### Evidence 
 ![SkateboardFinal](https://raw.githubusercontent.com/amunro93/Engineering_4_Notebook/main/Images/SkateboardFinal.png)
+![SkateboardBarrings](https://raw.githubusercontent.com/amunro93/Engineering_4_Notebook/main/Images/SkateboardBarrings.png)
+![SkateboardDeck](https://raw.githubusercontent.com/amunro93/Engineering_4_Notebook/main/Images/SkateboardDeck.png)
 ### Reflection 
-
+It wasn't very hard it just took a while to finish. 
