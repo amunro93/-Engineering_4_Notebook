@@ -149,4 +149,4 @@ We were assingend to make a skateboard.
 ![SkateboardBarrings](https://raw.githubusercontent.com/amunro93/Engineering_4_Notebook/main/Images/SkateboardBarrings.png)
 ![SkateboardDeck](https://raw.githubusercontent.com/amunro93/Engineering_4_Notebook/main/Images/SkateboardDeck.png)
 ### Reflection 
-It wasn't very hard it just took a while to finish. 
+This assingment taught me to have patience while following directions in onshape. But the assinment wasn't very difficult it just took a little longer than I expected. I learned in this assingment how to 
