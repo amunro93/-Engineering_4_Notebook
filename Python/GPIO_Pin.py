@@ -2,7 +2,7 @@ import RPi.GPIO as GPIO
 from time import sleep
 GPIO.setwarnings(False)
 
-led1, led2, = 21, 16 
+led1, led2, = 21, 16 #Led pins 
 led1Mode, led2Mode = 1, 0 
 
 GPIO.setmode(GPIO.BCM)
