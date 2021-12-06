@@ -10,7 +10,7 @@ Engineering work junior/4 year
 * [MSP](#MSP)
 * [Swing_Arm](#Swing_Arm)
 * [Skateboard](#Skateboard)
-* [GPIO_Pin_Introduction](#Pin_Intrduction)
+* [GPIO_Pin_Introduction](#Pin_Introduction)
 ---
 
 ## Basics
