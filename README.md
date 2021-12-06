@@ -152,5 +152,5 @@ We were assingend to make a skateboard.
 ### Reflection 
 This assingment taught me to have patience while following directions in onshape. But the assinment wasn't very difficult it just took a little longer than I expected. I learned in this assingment how to 
 
-## GPIO_Pin_Introduction
+## Pin_Introduction
 
