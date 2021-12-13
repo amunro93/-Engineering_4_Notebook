@@ -10,6 +10,8 @@ Engineering work junior/4 year
 * [MSP](#MSP)
 * [Swing_Arm](#Swing_Arm)
 * [Skateboard](#Skateboard)
+* [GPIO_Pin_Introduction](#Pin_Introduction)
+* [RPI_Safe_Shutdown](#Safe_Shutdown)
 ---
 
 ## Basics
@@ -150,3 +152,13 @@ We were assingend to make a skateboard.
 ![SkateboardDeck](https://raw.githubusercontent.com/amunro93/Engineering_4_Notebook/main/Images/SkateboardDeck.png)
 ### Reflection 
 This assingment taught me to have patience while following directions in onshape. But the assinment wasn't very difficult it just took a little longer than I expected. I learned in this assingment how to 
+
+## Pin_Introduction
+### Assingment Description 
+### Evidence 
+### Reflection 
+
+## Safe_Shutdown
+### Assingment Description 
+### Evidence 
+### Reflection 
