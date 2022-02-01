@@ -14,6 +14,7 @@ Engineering work junior/4 year
 * [RPI_Safe_Shutdown](#Safe_Shutdown)
 * [GPIO Pins](#GPIO_Pins)
 * [Headless Accelerometer](#Headless_Accelerometer)
+* [Pi Camera](#Pi_Camera)
 ---
 
 ## Basics
@@ -185,3 +186,13 @@ For this assinment I used a good bit of my knowledege from the last assingment a
 
 ### Reflection 
 This assingment was quite easy I learned that the Accelerometer could read which way it was being tilted. 
+
+## Pi_Camera 
+
+### Assingment Description 
+For this assingment I had to be able to capture a picture with a tiny little camera. 
+
+## Copypasta
+
+### Assingment Description
+For this assingment I had to make my own stop motion animation video using a Raspberry Pi, Python and a camera module to take pictures, controlled by a push button connected to the Pi’s GPIO pins.
