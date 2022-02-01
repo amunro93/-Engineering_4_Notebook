@@ -13,7 +13,7 @@ Engineering work junior/4 year
 * [GPIO_Pin_Introduction](#Pin_Introduction)
 * [RPI_Safe_Shutdown](#Safe_Shutdown)
 * [GPIO Pins](#GPIO_Pins)
-* [Headless Accelerometer](#Headless_Accelerometer)
+* [Headless Accelerometer](#Headless Accelerometer)
 * [Pi Camera](#Pi_Camera)
 * [Copypasta](#Copypasta)
 ---
