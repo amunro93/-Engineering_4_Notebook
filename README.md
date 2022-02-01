@@ -13,7 +13,7 @@ Engineering work junior/4 year
 * [GPIO_Pin_Introduction](#Pin_Introduction)
 * [RPI_Safe_Shutdown](#Safe_Shutdown)
 * [GPIO Pins](#GPIO_Pins)
-* [Headless Accelerometer](#Headless Accelerometer)
+* [Headless Accelerometer](#Headless_Accelerometer)
 * [Pi Camera](#Pi_Camera)
 * [Copypasta](#Copypasta)
 ---
@@ -180,7 +180,7 @@ For this assinment I had to wire up two sweet little devices (one input and one 
 ### Reflection 
 This was defintly the hardest assingment yet this quarter for me. It took quite a while but with help from classmates I was able to complete it. 
 
-## Headless Accelerometer
+## Headless_Accelerometer
 
 ### Assingment Description 
 For this assinment I used a good bit of my knowledege from the last assingment and had to use a dot to show where the pi was leaning. 
