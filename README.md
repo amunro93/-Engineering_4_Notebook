@@ -15,6 +15,7 @@ Engineering work junior/4 year
 * [GPIO Pins](#GPIO_Pins)
 * [Headless Accelerometer](#Headless_Accelerometer)
 * [Pi Camera](#Pi_Camera)
+* [Copypasta](#Copypasta)
 ---
 
 ## Basics
