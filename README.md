@@ -168,15 +168,20 @@ This was a fairly easy assingment and will help me later in more difficult code.
 For this assingment we had to code a button when pressed would restart the pi and when held down for a longer period of time then five seconds it would shutdown the pi. 
 
 ### Reflection 
+This assingment took a little longer then I expected. I got tripped up on making it restart for a while I could only shut it down but I got it to work. 
 
 ## GPIO_Pins
-### Assingment Description 
-### Evidence 
 
+### Assingment Description 
+For this assinment I had to wire up two sweet little devices (one input and one output) to our Pi using our trusty GPIO pins.
     
 ### Reflection 
+This was defintly the hardest assingment yet this quarter for me. It took quite a while but with help from classmates I was able to complete it. 
 
 ## Headless Accelerometer
+
 ### Assingment Description 
-### Evidence 
+For this assinment I used a good bit of my knowledege from the last assingment and had to use a dot to show where the pi was leaning. 
+
 ### Reflection 
+This assingment was quite easy I learned that the Accelerometer could read which way it was being tilted. 
